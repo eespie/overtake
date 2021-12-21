@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/box-mask.png-74888af0a36d76843be9f65d42f97aa0.res"
+
+[deps]
+
+source_file="res://Asset/UI/KenneyBasePack/box-mask.png"
+dest_files=[ "res://.import/box-mask.png-74888af0a36d76843be9f65d42f97aa0.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5
